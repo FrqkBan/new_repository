@@ -1,1 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+.social:hover {
+ 
+    transform: translateY(-100px);
+    transition: 3s ease-in;
+}
+
+.social2:hover {
+
+    transform: translateY(-100px);
+    transition: 3s ease-in;
+
+}
+
+.social {
+    display: inline-block;
+
+}
+
+.social2    {
+    display: inline-block;
+
+}
 
